@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:\\\\d\\\\FON\\\\Predavanje\\\\test\" log --oneline -20)"
+    ]
+  }
+}
